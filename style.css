@@ -1,0 +1,25 @@
+/* style.css */
+header {
+    background-color: #333; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno para o conteúdo */
+}
+
+h1 {
+    margin: 0; /* Remova as margens padrão do título */
+}
+
+nav ul {
+    list-style-type: none; /* Remova marcadores de lista */
+    padding: 0; /* Remova espaçamento interno da lista */
+}
+
+nav li {
+    display: inline; /* Alinhe os itens da lista horizontalmente */
+    margin-right: 20px; /* Espaçamento entre os itens da lista */
+}
+
+nav a {
+    text-decoration: none; /* Remova sublinhado dos links */
+    color: #fff; /* Cor do texto dos links */
+}
